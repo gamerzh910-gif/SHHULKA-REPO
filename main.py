@@ -568,7 +568,7 @@ async def help_button(client, callback_query):
         f"▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n" 
         f"📌 𝗠𝗮𝗶𝗻 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:\n\n"  
         f"➥ /start – Bot Status Check\n"
-        f"➥ /Ankit1 – Extract from .txt (Auto)\n"
+        f"➥ /ishu – Extract from .txt (Auto)\n"
         f"➥ /y2t – YouTube → .txt Converter\n"  
         f"➥ /ytm – YT .txt → .mp3 downloader\n"  
         f"➥ /yt2m – YT link → .mp3 downloader\n"  
